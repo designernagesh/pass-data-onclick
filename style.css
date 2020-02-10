@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Lato;  
+}
+header{
+   text-align: center;
+   background: #333;
+   color: white;
+   padding: 0 0 5px;
+}
+header p{
+  margin: 0 0 10px
+}
+ul{
+  width: 50%;
+  margin: 50px auto
+}
+li{
+  list-style-type: none;
+  border: 1px solid #CCC;
+  padding: 10px; margin: 5px;
+  text-align: center;
+  
+}
